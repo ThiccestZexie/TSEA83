@@ -1,4 +1,8 @@
 # g47 monkey computer
+Projekt work for TSEA83. Projekt is a microcomputer for an FPGA. Currently the only program is a monkey tower defense game. 
+
+# Features...
+
 
 **Kör dessa i roten av gitprojektet (code/)**
 
